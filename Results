@@ -1,0 +1,50 @@
+Enter distances: 70 120 170 200
+The midpoint is: 135
+The sum of distances for the midpoint is: 180
+The median is: 145
+The sum of distances for the median is: 180
+The average is: 140
+The sum of distances for the average is: 180
+
+Enter distances: 170 70 200 120
+The midpoint is: 135
+The sum of distances for the midpoint is: 180
+The median is: 145
+The sum of distances for the median is: 180
+The average is: 140
+The sum of distances for the average is: 180
+
+Enter distances: 12 15 28 42 60 75 100
+The midpoint is: 56
+The sum of distances for the midpoint is: 194
+The median is: 42
+The sum of distances for the median is: 180
+The average is: 47
+The sum of distances for the average is: 185
+
+Enter distances: 42 15 75 12 100 28 60
+The midpoint is: 56
+The sum of distances for the midpoint is: 194
+The median is: 42
+The sum of distances for the median is: 180
+The average is: 47
+The sum of distances for the average is: 185
+
+Enter distances: 2 20 50 100 150 200
+The midpoint is: 101
+The sum of distances for the midpoint is: 380
+The median is: 75
+The sum of distances for the median is: 378
+The average is: 87
+The sum of distances for the average is: 378
+
+Enter distances: 10 15 20 45 100 150 160
+The midpoint is: 85
+The sum of distances for the midpoint is: 405
+The median is: 45
+The sum of distances for the median is: 365
+The average is: 71
+The sum of distances for the average is: 391
+
+According to the data, the best strategy is the median strategy because 
+it consistently has the lowest sum of distances (or is tied for lowest).
